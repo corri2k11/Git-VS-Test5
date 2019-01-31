@@ -6,7 +6,7 @@ namespace NetCoreConsoleHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bonjour!");
+            Console.WriteLine("Saludos!");
         }
     }
 }
